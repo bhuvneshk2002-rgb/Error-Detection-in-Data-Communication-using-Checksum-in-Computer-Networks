@@ -1,0 +1,1 @@
+This project implements an error detection technique in computer networks using a 1’s complement checksum. The binary data is divided into fixed-size blocks, summed with carry handling, and complemented to generate a checksum. The receiver verifies data integrity by rechecking the checksum.
